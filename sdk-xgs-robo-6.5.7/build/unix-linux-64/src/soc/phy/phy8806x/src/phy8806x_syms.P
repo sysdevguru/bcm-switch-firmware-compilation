@@ -1,0 +1,14 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/soc/phy/phy8806x/src/phy8806x_syms.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/phy8806x/src/phy8806x_syms.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/phy8806x/include/phy8806x_defs.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/phy8806x/include/phy8806x_syms.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/phy8806x/src/phy8806x_syms.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/phy8806x/include/phy8806x_defs.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/phy8806x/include/phy8806x_syms.h :

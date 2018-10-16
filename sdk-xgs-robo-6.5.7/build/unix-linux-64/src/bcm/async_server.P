@@ -1,0 +1,6 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/bcm/async_server.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/bcm/async_server.c \
+ /usr/include/stdc-predef.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/bcm/async_server.c :
+ /usr/include/stdc-predef.h :

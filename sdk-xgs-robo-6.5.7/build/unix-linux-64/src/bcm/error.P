@@ -1,0 +1,10 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/bcm/error.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/bcm/error.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/bcm/error.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/error.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/bcm/error.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/bcm/error.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/error.h :

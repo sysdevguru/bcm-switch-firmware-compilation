@@ -1,0 +1,18 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/soc/esw/tomahawk/avs_vctl.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/esw/tomahawk/avs_vctl.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsl.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/esw/tomahawk/avs_vctl.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsl.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h :
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h :

@@ -1,0 +1,22 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/soc/shared/ulink_pack.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/shared/ulink_pack.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/defs.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/mcm/allenum.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/maxdef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pack.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/ulink_pack.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/shared/ulink_pack.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/defs.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/mcm/allenum.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/maxdef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pack.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/ulink_pack.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :

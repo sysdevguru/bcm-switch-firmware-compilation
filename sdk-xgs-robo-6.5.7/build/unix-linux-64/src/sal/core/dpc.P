@@ -1,0 +1,26 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/sal/core/dpc.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/sal/core/dpc.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/assert.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/alloc.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/spl.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/sync.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/time.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/dpc.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/thread.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/sal/core/dpc.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/assert.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/alloc.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/spl.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/sync.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/time.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/dpc.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/thread.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h :

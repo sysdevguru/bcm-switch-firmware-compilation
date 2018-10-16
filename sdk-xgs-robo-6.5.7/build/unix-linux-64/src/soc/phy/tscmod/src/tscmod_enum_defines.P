@@ -1,0 +1,8 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/soc/phy/tscmod/src/tscmod_enum_defines.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/tscmod/src/tscmod_enum_defines.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/tscmod/include/tscmod_enum_defines.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/tscmod/src/tscmod_enum_defines.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/tscmod/include/tscmod_enum_defines.h :

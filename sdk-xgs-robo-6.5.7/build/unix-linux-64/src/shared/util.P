@@ -1,0 +1,52 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/shared/util.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/shared/util.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/assert.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsl.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/util.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/time.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/dpc.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/thread.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/sync.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/l3.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/error.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/error.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/debug.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/cmdebug.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/libc.h \
+ /usr/include/string.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h /usr/include/xlocale.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/shared/util.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/assert.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsl.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h :
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/util.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/time.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/dpc.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/thread.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/sync.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/l3.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/error.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/error.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/debug.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/cmdebug.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/libc.h :
+ /usr/include/string.h /usr/include/features.h /usr/include/sys/cdefs.h :
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h :
+ /usr/include/gnu/stubs-32.h :
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h /usr/include/xlocale.h :

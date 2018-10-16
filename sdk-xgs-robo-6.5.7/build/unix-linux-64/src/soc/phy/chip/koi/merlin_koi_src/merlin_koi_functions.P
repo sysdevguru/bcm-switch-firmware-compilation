@@ -1,0 +1,70 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_functions.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_functions.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/libc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h /usr/include/string.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h /usr/include/xlocale.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_functions.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_usr_includes.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsl.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_dependencies.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/./common/srds_api_err_code.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_interface.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_enum.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/common/srds_api_enum.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/common/srds_api_err_code.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_debug_functions.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_common.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/common/srds_api_uc_common.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/eagle_merlin_api_uc_common.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_field_access.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_fields.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/eagle_merlin_api_uc_vars_rdwr_defns.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_field_access.c \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_internal.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_internal.c \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_dv_functions.c \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_pll_config.c \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_tx_analog_functions.c
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_functions.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/libc.h :
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h /usr/include/string.h :
+ /usr/include/features.h /usr/include/sys/cdefs.h :
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h :
+ /usr/include/gnu/stubs-32.h :
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h /usr/include/xlocale.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_functions.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_usr_includes.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsl.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_dependencies.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/./common/srds_api_err_code.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_interface.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_enum.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/common/srds_api_enum.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/common/srds_api_err_code.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_debug_functions.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_common.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/common/srds_api_uc_common.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/eagle_merlin_api_uc_common.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_field_access.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_fields.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/eagle_merlin_api_uc_vars_rdwr_defns.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_field_access.c :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_internal.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_internal.c :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_koi_dv_functions.c :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_pll_config.c :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/koi/merlin_koi_src/merlin_tx_analog_functions.c :

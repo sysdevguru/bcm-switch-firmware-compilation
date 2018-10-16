@@ -1,0 +1,26 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/appl/diag/bslenable.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/appl/diag/bslenable.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslnames.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/appl/diag/bslenable.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslext.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/thread.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/appl/diag/bslenable.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslnames.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h :
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/appl/diag/bslenable.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslext.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/thread.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h :

@@ -1,0 +1,44 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/soc/shared/ccm_pack.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/shared/ccm_pack.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/ccm_msg.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/ccm.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pack.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/bcm/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bitop.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pbmp.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/util.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/time.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/dpc.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/thread.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/sync.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/gport.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/cosq.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/mpls.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/l3.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/shared/ccm_pack.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/ccm_msg.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/ccm.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pack.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/bcm/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bitop.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pbmp.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/util.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/time.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/dpc.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/thread.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/sync.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/gport.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/cosq.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/mpls.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/l3.h :

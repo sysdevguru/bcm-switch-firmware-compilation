@@ -1,0 +1,6 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/soc/phy/phy84780_ucode.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/phy84780_ucode.c \
+ /usr/include/stdc-predef.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/phy84780_ucode.c :
+ /usr/include/stdc-predef.h :

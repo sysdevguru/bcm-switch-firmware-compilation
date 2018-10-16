@@ -1,0 +1,68 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_functions.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_functions.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/libc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h /usr/include/string.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h /usr/include/xlocale.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_functions.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_usr_includes.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsl.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_ipconfig.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_dependencies.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/common/srds_api_err_code.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_interface.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_enum.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/common/srds_api_enum.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_debug_functions.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_common.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/common/srds_api_uc_common.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_merlin_api_uc_common.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_field_access.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_fields.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_merlin_api_uc_vars_rdwr_defns.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_field_access.c \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_internal.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_internal.c \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_dv_functions.c \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_pll_config.c
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_functions.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/libc.h :
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h /usr/include/string.h :
+ /usr/include/features.h /usr/include/sys/cdefs.h :
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h :
+ /usr/include/gnu/stubs-32.h :
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h /usr/include/xlocale.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_functions.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_usr_includes.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsl.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_ipconfig.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_dependencies.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/common/srds_api_err_code.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_interface.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_enum.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/common/srds_api_enum.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_debug_functions.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_common.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/common/srds_api_uc_common.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_merlin_api_uc_common.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_field_access.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_fields.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_merlin_api_uc_vars_rdwr_defns.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_field_access.c :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_internal.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_internal.c :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_phy_1_dv_functions.c :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/phy/chip/orca/eagle_orca_src/eagle_pll_config.c :

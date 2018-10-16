@@ -1,0 +1,22 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/soc/shared/mpls_lm_dm_pack.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/shared/mpls_lm_dm_pack.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pack.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mpls_lm_dm_msg.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mos_msg_common.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mos_intr_common.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mpls_lm_dm_pkt.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mpls_lm_dm_pack.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/shared/mpls_lm_dm_pack.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pack.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mpls_lm_dm_msg.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mos_msg_common.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mos_intr_common.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mpls_lm_dm_pkt.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mpls_lm_dm_pack.h :

@@ -1,0 +1,26 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/bcm/esw/alpm.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/bcm/esw/alpm.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/defs.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/mcm/allenum.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/maxdef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsl.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/bcm/esw/alpm.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/defs.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/mcm/allenum.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/maxdef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsl.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bsltypes.h :
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bslenum.h :

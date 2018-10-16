@@ -1,0 +1,36 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/bcm/esw/xgs5/bfd_sdk_pack.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/bcm/esw/xgs5/bfd_sdk_pack.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/bcm_int/esw/bfd_sdk_pack.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/bfd_msg.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mos_msg_common.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mos_intr_common.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/bfd_pkt.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pack.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bfd.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/bcm_int/esw/bfd_feature.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/defs.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/mcm/allenum.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/maxdef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/bcm_int/esw/bfd_sdk_msg.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/bcm/esw/xgs5/bfd_sdk_pack.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/bcm_int/esw/bfd_sdk_pack.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/bfd_msg.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mos_msg_common.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mos_intr_common.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/bfd_pkt.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pack.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/bfd.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/bcm_int/esw/bfd_feature.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/defs.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sdk_config.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/mcm/allenum.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/maxdef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/bcm_int/esw/bfd_sdk_msg.h :

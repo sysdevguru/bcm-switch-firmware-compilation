@@ -1,0 +1,16 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/soc/shared/ces_pack.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/shared/ces_pack.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pack.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mos_msg_ces.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/ces_pack.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/soc/shared/ces_pack.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/pack.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/mos_msg_ces.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/shared/ces_pack.h :

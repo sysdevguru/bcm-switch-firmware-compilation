@@ -1,0 +1,6 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/sal/appl/editline/sysvxworks.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/sal/appl/editline/sysvxworks.c \
+ /usr/include/stdc-predef.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/sal/appl/editline/sysvxworks.c :
+ /usr/include/stdc-predef.h :

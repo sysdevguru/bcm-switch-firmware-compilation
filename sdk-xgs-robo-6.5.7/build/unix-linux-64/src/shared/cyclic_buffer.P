@@ -1,0 +1,34 @@
+/home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/build/unix-linux-64/src/shared/cyclic_buffer.o: \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/shared/cyclic_buffer.c \
+ /usr/include/stdc-predef.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/error.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/cyclic_buffer.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/alloc.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/libc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h /usr/include/string.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h /usr/include/xlocale.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/error.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/debug.h \
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/cmdebug.h
+
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/src/shared/cyclic_buffer.c :
+ /usr/include/stdc-predef.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/error.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/shared/cyclic_buffer.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/types.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/compiler.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/alloc.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/sal/core/libc.h :
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h /usr/include/string.h :
+ /usr/include/features.h /usr/include/sys/cdefs.h :
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h :
+ /usr/include/gnu/stubs-32.h :
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h /usr/include/xlocale.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/error.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/debug.h :
+ /home/dev/work/switch_engine/sdk-xgs-robo-6.5.7/include/soc/cmdebug.h :
